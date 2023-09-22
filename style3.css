@@ -1,0 +1,29 @@
+p {
+    background-color: antiquewhite;
+    color: rgba(0, 0, 255, 0.815);
+    font-family: cursive;
+    text-align: center;
+    margin: 10px 10px 10px 10px;
+    padding: 5px 10px 15px 20px;
+    border-radius: 15px;
+    border: 700px royalblue;
+    font-size: 50px;
+    font-weight: 500px;
+
+}
+
+h1 {
+    color: rgba(247, 112, 15, 0.808);
+    font-family: cursive;
+    text-align: center;
+}
+
+.repo {
+    padding: 2% 7% 0 7%;
+    text-decoration: none;
+    color: rgb(131, 11, 91);
+    font-size: 20px;
+    font-weight: 600;
+
+
+}
